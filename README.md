@@ -18,5 +18,8 @@ using the Bioconductor airway dataset.
 - clusterProfiler, enrichplot
 - org.Hs.eg.db, AnnotationDbi
 
+## Project Interpretation
+DESeq2 analysis identified differentially expressed genes between treated and control samples. PCA and visualization plots indicated clear separation between conditions. Functional enrichment analysis highlighted immune and inflammatory pathways, supporting treatment-associated transcriptional changes.
+
 ## Script
 `script/airway_deseq2_GO_KEGG_analysis.R
