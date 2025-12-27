@@ -19,4 +19,4 @@ using the Bioconductor airway dataset.
 - org.Hs.eg.db, AnnotationDbi
 
 ## Script
-`scripts/airway_deseq2_GO_KEGG_analysis.R
+`script/airway_deseq2_GO_KEGG_analysis.R
